@@ -24,7 +24,7 @@ The project is split into two parts:
 
 ### All builds
 
-[!ALL](./screenshots/travisciall.jpg)
+![ALL](./screenshots/travisciall.jpg)
 
 ### Latest build
 
