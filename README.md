@@ -36,14 +36,19 @@ kubectl get pods
 ```bash
 kubectl describe services
 ```
-![Describesvc](./screenshots/describeservices.jpg)
+![Describesvc](./screenshots/svc1.jpg)
+![Describesvc](./screenshots/svc2.jpg)
+![Describesvc](./screenshots/svc3.jpg)
+![Describesvc](./screenshots/svc4.jpg)
+![Describesvc](./screenshots/svc5.jpg)
 
 ## Kubernetes `kubectl describe hpa` output
 
 ```bash
 kubectl describe hpa
 ```
-![Describehpa](./screenshots/describehpa.jpg)
+![Describehpa](./screenshots/hpa1.jpg)
+![Describehpa](./screenshots/hpa2.jpg)
 
 ## Kubernetes `kubectl logs <your pod name>` output
 
